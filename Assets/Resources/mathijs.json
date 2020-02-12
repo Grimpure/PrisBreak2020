@@ -1,0 +1,10 @@
+{
+    "Student" : {
+        "Name": "Mathijs van dinther",
+        "Age": 19,
+        "Male": true,
+        "Dead": false,
+        "Corona": null,
+        "Little Brothers": [ "Thomas", "Lucas", "Joris" ]
+    }
+}
